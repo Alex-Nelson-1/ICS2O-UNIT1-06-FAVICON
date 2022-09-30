@@ -4,5 +4,9 @@
 }
 
 body {
-  background-color: lightgreen;
+  background-color: #ee91b6;
+}
+
+p {
+  color: blue;
 }
